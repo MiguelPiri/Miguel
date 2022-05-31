@@ -30,13 +30,4 @@ nav {
 }
 /* animaciones */
 
-@keyframes animar {
-    0%{ width: 100px;}
-    0.2s{ width: 50px;}
-    25%{ width: 300px;}
-    50%{ width: 200px;
-    background-color: red; }
-    75%{ width: 300px;}
-    100% {width: 100px;
-    background-color: green; }  
-}
+
